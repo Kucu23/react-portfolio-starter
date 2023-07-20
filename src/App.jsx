@@ -12,7 +12,14 @@ function App() {
 
   return (
     <>
-      <div className="text-white">Hello</div>
+      <div className="max-w-7xl mx-auto">
+        <Header/>
+        <Home/>
+        <About/>
+        <Projects/>
+        <Contact/>
+        <Footer/>
+      </div>
     </>
   );
 }
