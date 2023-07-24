@@ -1,7 +1,7 @@
 import React from 'react';
 import Img from '../assets/Willie.png'
 import circle from '../assets/circle.png'
-import img5 from '../assets/img5.png'
+import img5 from '../assets/img3.png'
 
 const Home = () => {
     return (
