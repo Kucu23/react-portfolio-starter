@@ -5,7 +5,7 @@ import img5 from '../assets/img5.png'
 
 const Home = () => {
     return (
-        <div className='md:px-10 px-7 my-14 md:h-screen bg-[#1a1a29]' id='home'>
+        <div className='md:px- px-7 my-14 md:h-screen bg-[#1a1a29]' id='home'>
             <div>
                 <div className='flex flex-col md:flex-row items-center justify-between w-full'>
                     {/* image & content */}
