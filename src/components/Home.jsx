@@ -15,8 +15,10 @@ const Home = () => {
                         <h1 className='font-semibold md:text-5xl my-4 text-3xl'>Michał Kuczyński</h1>
                         <p className='md:w-96'>Freelance UI designer, Fullstack developer, & Data Miner. I create seamless web experiences for end-users.</p>
                         <div className='mt-5'>
+                        <a href="https://github.com/Kucu23" target="_blank" rel="noreferrer">
                             <button className='btn transition-all duration-500 bg-primary py-2 px-4 rounded text-white hover:bg-white hover:text-primary'>About me</button> 
                             <button className='btn outline py-1.5 px-6 rounded border-none ml-5 text-white '>Projects</button>
+                            </a>
                         </div>
                     </div>
                     {/* img */}
