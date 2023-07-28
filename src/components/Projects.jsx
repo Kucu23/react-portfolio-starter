@@ -57,9 +57,11 @@ const Projects = () => {
                   About me
                 </button>
                 </a>
+                <a href="https://github.com/Kucu23?tab=repositories" target="_blank" rel="noreferrer">
                 <button className="btn outline py-1.5 px-9 rounded border-none ml-5 text-white ">
                   Projects
                 </button>
+                </a>
               </div>
             </div>
           );
