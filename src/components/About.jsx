@@ -16,14 +16,14 @@ const About = () => {
       <h1 className="text-primary font-semibold text-3xl mt-5">About me:</h1>
       <p className="my-3 text-white md:w-2/3 leading-[2]">
         Hi, my name is Michał Kuczyński, i am a Fullstack web developer, UI
-        designer, and Mobile developer. I jhave honed my skills in Web
-        Development and advance i have core understanding of advance UI design
+        designer, and Mobile developer. I have honed my skills in Web
+        Development , i have core understanding of advance UI design
         principles. Here are the major skiills i have.
       </p>
       <div className="md:flex my-7 items-center">
         <div className="text-primary text-8xl font-bold">2+</div>
         <p className="text-white text-2xl md:ml-5">
-          Years of experience. Specialised in building apps, while ensuring a
+          Years of experience. Specialised in building apps fro my clients, while ensuring a
           seamless web experience for end users.
         </p>
       </div>

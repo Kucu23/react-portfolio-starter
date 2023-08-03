@@ -6,6 +6,9 @@ import {
 } from "@heroicons/react/24/solid";
 import { Link, ScrollLink } from "react-scroll";
 
+
+
+
 const Header = () => {
   let Links = [
     { name: "Home", link: "home" },
@@ -49,6 +52,7 @@ const Header = () => {
             </li>
           ))}
         </ul>
+         
         {/* button */}
       </div>
     </div>
