@@ -10,6 +10,8 @@ const About = () => {
       name: "WEB SCRAPING WITH PYTHON",
       image: "/src/assets/icons/python-svg.png",
     },
+    { name: "AWS CLOUD DEVELOPMENT", image: "/src/assets/icons/code.png" },
+    
   ];
   return (
     <div className="md:px-1 px-7 sm:mt-24" id="about">
